@@ -2,6 +2,6 @@
 chk_host_list:
   - uri: www.google.com
   - uri: yahoo.com
-  - uri: ‚¨–¼‘O.com
+  - uri: ãŠåå‰.com
   - uri: yahoo.co.jp
   - uri: goo.ne.jp
