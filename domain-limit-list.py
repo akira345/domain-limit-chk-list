@@ -19,7 +19,7 @@ def get_whois(host):
 
 
 # YamlをOpen
-f = open("chk_hosts.yml")
+f = open("./chk_hosts.yml",encoding='utf-8')
 chk_hosts = yaml.load(f)
 chk_hosts = chk_hosts['chk_host_list']
 #print (chk_hosts)
@@ -88,7 +88,7 @@ list = sorted(list, key=lambda x: (x["limit_day"], x["domain"]))
 
 # HTML作成
 env = Environment(loader=FileSystemLoader('./', encoding='utf8'))
-templete = env.get_template('domain_limit.html.j2')
+templete = env.get_template('./domain_limit.html.j2')
 data = {"list": list}
 output = templete.render(data)
 
