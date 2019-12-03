@@ -3,6 +3,6 @@ publicsuffix==1.1.0
 python-dateutil==2.8.1
 python-whois==0.7.2
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.2
 six==1.13.0
 jinja2==2.10.3
