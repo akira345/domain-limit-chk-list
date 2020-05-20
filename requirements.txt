@@ -2,7 +2,7 @@ future==0.18.2
 publicsuffix==1.1.1
 python-dateutil==2.8.1
 python-whois==0.7.2
-pytz==2019.3
+pytz==2020.1
 PyYAML==5.3
 six==1.13.0
 jinja2==2.11.1
