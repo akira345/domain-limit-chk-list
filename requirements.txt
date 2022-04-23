@@ -5,4 +5,4 @@ python-whois==0.7.3
 pytz==2022.1
 PyYAML==6.0
 six==1.16.0
-jinja2==3.0.3
+jinja2==3.1.1
