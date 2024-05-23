@@ -1,6 +1,6 @@
 future==1.0.0
 publicsuffix==1.1.1
-python-dateutil==2.8.2
+python-dateutil==2.9.0.post0
 python-whois==0.9.4
 pytz==2023.3.post1
 PyYAML==6.0.1
